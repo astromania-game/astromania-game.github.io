@@ -4094,6 +4094,17 @@ html.no-csstransitions .home-content__main {
 }
 
 /*# sourceMappingURL=main.css.map */
+/* -------------------------------------------------------------------
+ * Github icon
+ * ------------------------------------------------------------------- */
+
+.github {
+  width: 75%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-65%, 10%);
+}
 
 /* -------------------------------------------------------------------
  * Google form
