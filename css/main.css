@@ -2115,7 +2115,7 @@ input::-moz-focus-inner {
   font-size: 2.4rem;
   line-height: 1.667;
   font-style: normal;
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, 0.9);
   margin-top: 2rem;
   width: 85%;
 }
